@@ -86,21 +86,21 @@ Bangalore, India
 
 ### Professional Training
 
-- Math for Machine Learning - Amazon Web Service (AWS), Training and Certification ([Certificate](https://drive.google.com/file/d/1tYiSqiYuhHnrh4b9pSgdTL0SpNjle0bG/view?usp=sharing))
+- [Math for Machine Learning](https://www.aws.training/Details/eLearning?id=26597) - Amazon Web Service (AWS), Training and Certification ([Certificate](https://drive.google.com/file/d/1tYiSqiYuhHnrh4b9pSgdTL0SpNjle0bG/view?usp=sharing))
 
-- Java Tutorial Course - SoloLearn ([Certificate](https://www.sololearn.com/Certificate/1068-10313707/pdf/))
+- [Java Tutorial Course](https://www.sololearn.com/Course/Java/) - SoloLearn ([Certificate](https://www.sololearn.com/Certificate/1068-10313707/pdf/))
 
-- SQL Fundamentals - SoloLearn ([Certificate](https://www.sololearn.com/Certificate/1060-10313707/pdf/))
+- [SQL Fundamentals](https://www.sololearn.com/Course/SQL/) - SoloLearn ([Certificate](https://www.sololearn.com/Certificate/1060-10313707/pdf/))
 
-- Python 3 Tutorial Course - SoloLearn ([Certificate](https://www.sololearn.com/Certificate/1073-10313707/pdf/))
+- [Python 3 Tutorial Course](https://www.sololearn.com/Course/Python/) - SoloLearn ([Certificate](https://www.sololearn.com/Certificate/1073-10313707/pdf/))
 
-- MATLAB Fundamentals - MATLAB Acaedmy, MathWorks ([Certificate](https://matlabacademy.mathworks.com/progress/share/report.html?id=a6ee8da5-d15e-43dc-bf20-cb4c693a0ed1))
+- [MATLAB Fundamentals](https://in.mathworks.com/training-schedule/matlab-fundamentals?class_format=SPO&requestedDomain=) - MATLAB Acaedmy, MathWorks ([Certificate](https://matlabacademy.mathworks.com/progress/share/report.html?id=a6ee8da5-d15e-43dc-bf20-cb4c693a0ed1))
 
-- Course on PreDOE: Basic Statistics for Experimenters – Stat-Ease Academy ([Certificate](https://drive.google.com/file/d/1Qyubi_ANihKMuE8O_3QoJrtWAcYc3ew4/view?usp=sharing))
+- [Course on PreDOE: Basic Statistics for Experimenters](https://www.statease.com/training/academy/predoe/) – Stat-Ease Academy ([Certificate](https://drive.google.com/file/d/1Qyubi_ANihKMuE8O_3QoJrtWAcYc3ew4/view?usp=sharing))
 
-- Simulink Onramp - MATLAB Acaedmy, MathWorks ([Certificate](https://matlabacademy.mathworks.com/progress/share/report.html?id=521a8eaf-46d6-4f40-bc38-773d7e1758dd))
+- [Simulink Onramp](https://in.mathworks.com/learn/tutorials/simulink-onramp.html) - MATLAB Acaedmy, MathWorks ([Certificate](https://matlabacademy.mathworks.com/progress/share/report.html?id=521a8eaf-46d6-4f40-bc38-773d7e1758dd))
 
-- MATLAB Onramp - MATLAB Acaedmy, MathWorks ([Certificate](https://matlabacademy.mathworks.com/progress/share/report.html?id=80e69295-14ec-4679-bcc1-79c005ab76df))
+- [MATLAB Onramp](https://in.mathworks.com/learn/tutorials/matlab-onramp.html) - MATLAB Acaedmy, MathWorks ([Certificate](https://matlabacademy.mathworks.com/progress/share/report.html?id=80e69295-14ec-4679-bcc1-79c005ab76df))
 
 - Star CCM+ Training - SIEMENS
 

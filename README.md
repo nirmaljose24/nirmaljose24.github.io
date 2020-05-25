@@ -98,9 +98,9 @@ Bangalore, India
 
 - [Course on PreDOE: Basic Statistics for Experimenters](https://www.statease.com/training/academy/predoe/) – Stat-Ease Academy ([Certificate](https://drive.google.com/file/d/1Qyubi_ANihKMuE8O_3QoJrtWAcYc3ew4/view?usp=sharing))
 
-- [Simulink Onramp](https://in.mathworks.com/learn/tutorials/simulink-onramp.html) - MATLAB Acaedmy, MathWorks ([Certificate](https://matlabacademy.mathworks.com/progress/share/report.html?id=521a8eaf-46d6-4f40-bc38-773d7e1758dd))
+- [Simulink Onramp](https://in.mathworks.com/learn/tutorials/simulink-onramp.html) - MATLAB Acaedmy, MathWorks ([Certificate](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=521a8eaf-46d6-4f40-bc38-773d7e1758dd))
 
-- [MATLAB Onramp](https://in.mathworks.com/learn/tutorials/matlab-onramp.html) - MATLAB Acaedmy, MathWorks ([Certificate](https://matlabacademy.mathworks.com/progress/share/report.html?id=80e69295-14ec-4679-bcc1-79c005ab76df))
+- [MATLAB Onramp](https://in.mathworks.com/learn/tutorials/matlab-onramp.html) - MATLAB Acaedmy, MathWorks ([Certificate](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=80e69295-14ec-4679-bcc1-79c005ab76df))
 
 - Star CCM+ Training - SIEMENS
 

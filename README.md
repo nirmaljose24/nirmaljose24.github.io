@@ -86,6 +86,7 @@ Bangalore, India
 
 ### Professional Training
 
+- [Mathematics for Machine Learning: Linear Algebra, Imperial College London](https://www.coursera.org/learn/linear-algebra-machine-learning) - Coursera ([Certificate](https://www.coursera.org/account/accomplishments/certificate/MQAQSK2KWN43))
 - [NDG Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched) - Network Development Group (NDG) ([Certificate](https://drive.google.com/file/d/1hP0MXA7blp0JpKbx-2KzVHgYlbPpDYsU/view?usp=sharing))
 
 - [Math for Machine Learning](https://www.aws.training/Details/eLearning?id=26597) - Amazon Web Service (AWS), Training and Certification ([Certificate](https://drive.google.com/file/d/1tYiSqiYuhHnrh4b9pSgdTL0SpNjle0bG/view?usp=sharing))

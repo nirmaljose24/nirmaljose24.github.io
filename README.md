@@ -86,6 +86,8 @@ Bangalore, India
 
 ### Professional Training
 
+- [Introduction to Self-Driving Cars, University of Toronto](https://www.coursera.org/learn/intro-self-driving-cars) - Coursera ([Certificate](https://coursera.org/share/4b1dc3b5bb7e68b9ad59919859135ce3))
+
 - [Mathematics for Machine Learning: Linear Algebra, Imperial College London](https://www.coursera.org/learn/linear-algebra-machine-learning) - Coursera ([Certificate](https://coursera.org/share/700e4842e2dfec75bf2efe031647b41b))
 - [NDG Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched) - Network Development Group (NDG) ([Certificate](https://drive.google.com/file/d/1hP0MXA7blp0JpKbx-2KzVHgYlbPpDYsU/view?usp=sharing))
 

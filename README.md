@@ -86,6 +86,8 @@ Bangalore, India
 
 ### Professional Training
 
+- [State Estimation and Localization for Self-Driving Cars, University of Toronto](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars) - Coursera ([Certificate](https://coursera.org/share/a7b2f5bffecdfd3ffd4037de208f111e))
+
 - [Introduction to Self-Driving Cars, University of Toronto](https://www.coursera.org/learn/intro-self-driving-cars) - Coursera ([Certificate](https://coursera.org/share/4b1dc3b5bb7e68b9ad59919859135ce3))
 
 - [Mathematics for Machine Learning: Linear Algebra, Imperial College London](https://www.coursera.org/learn/linear-algebra-machine-learning) - Coursera ([Certificate](https://coursera.org/share/700e4842e2dfec75bf2efe031647b41b))

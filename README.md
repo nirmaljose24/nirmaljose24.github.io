@@ -86,6 +86,8 @@ Bangalore, India
 
 ### Professional Training
 
+- [The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being) - Coursera ([Certificate](https://www.coursera.org/account/accomplishments/verify/M9U6CV6QYFEL?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course))
+
 - [State Estimation and Localization for Self-Driving Cars, University of Toronto](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars) - Coursera ([Certificate](https://coursera.org/share/a7b2f5bffecdfd3ffd4037de208f111e))
 
 - [Introduction to Self-Driving Cars, University of Toronto](https://www.coursera.org/learn/intro-self-driving-cars) - Coursera ([Certificate](https://coursera.org/share/4b1dc3b5bb7e68b9ad59919859135ce3))

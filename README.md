@@ -63,6 +63,13 @@ Aircraft Division
 - Design Expert
 
 
+### Publications
+
+- **A Study of Diesel and Pongamia Pinnata Biodiesel Combustion in Compression Ignition Engines using Zero-Dimensional Modelling and Experimental Methods** <br/>
+The study develops a single zone zero-dimensional progressive combustion simulation model using Python programming language for compression ignition engines fueled by diesel, Pongamia Pinatta biodiesel and diesel - biodiesel blends. <br/>
+[See Publication](https://doi.org/10.1080/01430750.2020.1831596) <br/>
+1 October 2020
+
 ### Projects
 
 - **0D Combustion Modeling of Compression Ignition Engines Using Python** <br/>

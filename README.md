@@ -93,6 +93,7 @@ Bangalore, India
 
 ### Professional Training
 
+- [Version Control with Git, Atlassian](https://www.coursera.org/learn/version-control-with-git) - Coursera ([Certificate](https://coursera.org/share/81ee649a7e278b378d95e45c1b124357))
 - [Visual Perception for Self-Driving Cars, University of Toronto](https://www.coursera.org/learn/visual-perception-self-driving-cars) - Coursera ([Certificate](https://coursera.org/share/30e7109cf580baabd93e96a5b2e71d57))
 - [Mathematics for Machine Learning: Multivariate Calculus, Imperial College London](https://www.coursera.org/learn/multivariate-calculus-machine-learning) - Coursera ([Certificate](https://coursera.org/share/15de10bbc7fdc25001e280c820f1c3d0))
 

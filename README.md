@@ -93,13 +93,16 @@ Bangalore, India
 
 ### Professional Training
 
+- [Mathematics for Machine Learning, Imperial College London](https://www.coursera.org/specializations/mathematics-machine-learning) - Coursera([Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/HW6XUDKGESU3))
+    - [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) - Coursera ([Certificate](https://coursera.org/share/700e4842e2dfec75bf2efe031647b41b))
+    - [Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) - Coursera ([Certificate](https://coursera.org/share/15de10bbc7fdc25001e280c820f1c3d0))
+    - [Principal Component Analysis(PCA)](https://www.coursera.org/learn/pca-machine-learning) - Coursera([Certificate](https://coursera.org/share/807dd53ec882fd079142d23cfe32354e))
+    
 - [AI For Everyone, DeepLearning.AI](https://www.coursera.org/learn/ai-for-everyone) - Coursera([Certificate](https://coursera.org/share/29b3082ada5c62fabc798f142665187d))
 
 - [Version Control with Git, Atlassian](https://www.coursera.org/learn/version-control-with-git) - Coursera ([Certificate](https://coursera.org/share/81ee649a7e278b378d95e45c1b124357))
 
 - [Visual Perception for Self-Driving Cars, University of Toronto](https://www.coursera.org/learn/visual-perception-self-driving-cars) - Coursera ([Certificate](https://coursera.org/share/30e7109cf580baabd93e96a5b2e71d57))
-
-- [Mathematics for Machine Learning: Multivariate Calculus, Imperial College London](https://www.coursera.org/learn/multivariate-calculus-machine-learning) - Coursera ([Certificate](https://coursera.org/share/15de10bbc7fdc25001e280c820f1c3d0))
 
 - [The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being) - Coursera ([Certificate](https://www.coursera.org/account/accomplishments/verify/M9U6CV6QYFEL?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course))
 
@@ -107,7 +110,6 @@ Bangalore, India
 
 - [Introduction to Self-Driving Cars, University of Toronto](https://www.coursera.org/learn/intro-self-driving-cars) - Coursera ([Certificate](https://coursera.org/share/4b1dc3b5bb7e68b9ad59919859135ce3))
 
-- [Mathematics for Machine Learning: Linear Algebra, Imperial College London](https://www.coursera.org/learn/linear-algebra-machine-learning) - Coursera ([Certificate](https://coursera.org/share/700e4842e2dfec75bf2efe031647b41b))
 - [NDG Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched) - Network Development Group (NDG) ([Certificate](https://drive.google.com/file/d/1hP0MXA7blp0JpKbx-2KzVHgYlbPpDYsU/view?usp=sharing))
 
 - [Math for Machine Learning](https://www.aws.training/Details/eLearning?id=26597) - Amazon Web Service (AWS), Training and Certification ([Certificate](https://drive.google.com/file/d/1tYiSqiYuhHnrh4b9pSgdTL0SpNjle0bG/view?usp=sharing))

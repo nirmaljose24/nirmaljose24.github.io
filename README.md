@@ -130,10 +130,9 @@ Bangalore, India
 
 - Star CCM+ Training - SIEMENS
 
-- FESTO - Training in Automation with Pneumatic and Hydraulics
-
-- FESTO – Training in Automation using Programmable Logic Controllers
-
+- FESTO - Training in Automation 
+    - Pneumatic and Hydraulics
+    - Programmable Logic Controllers
 
 ### Honors and Awards
 

@@ -1,29 +1,9 @@
-<style>
-body{
-    background: #000;
-    color: #EEE;
-}
-</style>
 <center>
-<style>
-img.rounded {
-  height: 200px;
-  width: 200px;
-  border-radius: 50%;
-}
-</style>
 <img src="./assets/profile_pic.jpg" class="rounded">
 </center>
 
 # <center> Nirmal Jose
 
-<style>
-img.roundedsmall {
-  height: 30px;
-  width: 30px;
-  border-radius: 50%;
-}
-</style>
 <center>
     <a href="mailto:nirmal.jose24@gmail.com">
     <img src="./assets/mail_logo.png" alt="mail" width="30" class="roundedsmall"></a>
@@ -114,7 +94,7 @@ Department of Mechanical and Automobile Engineering, Christ University <br/>
 Bangalore, India
 
 
-### Professional Training
+### Professional Training and Certifications
 
 - [Self-Driving Cars, University of Toronto](https://www.coursera.org/specializations/self-driving-cars) - Coursera([Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/HW6XUDKGESU3))
     - [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) - Coursera ([Certificate](https://coursera.org/share/4b1dc3b5bb7e68b9ad59919859135ce3))
@@ -164,3 +144,29 @@ Bachelor of Technology in Automobile Engineering (2014-2018) <br/>
 Christ University
 
 - Merit Scholorship, Christ University, 2018
+
+
+
+<!---Document Styles--->
+<style>
+img.rounded {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+</style>
+
+<style>
+body{
+    background: #000;
+    color: #EEE;
+}
+</style>
+
+<style>
+img.roundedsmall {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+</style>

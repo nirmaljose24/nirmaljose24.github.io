@@ -1,3 +1,20 @@
+<center>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img.rounded {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+</style>
+</head>
+<img src="./assets/profile_pic.jpg" class="rounded">
+</body>
+</html> 
+</center>
+
 # <center> Nirmal Jose
 
 

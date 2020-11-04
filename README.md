@@ -1,7 +1,10 @@
+<style>
+body{
+    background: #000;
+    color: #EEE;
+}
+</style>
 <center>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 img.rounded {
   height: 200px;
@@ -9,10 +12,7 @@ img.rounded {
   border-radius: 50%;
 }
 </style>
-</head>
 <img src="./assets/profile_pic.jpg" class="rounded">
-</body>
-</html> 
 </center>
 
 # <center> Nirmal Jose

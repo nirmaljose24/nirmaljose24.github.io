@@ -17,14 +17,20 @@ img.rounded {
 
 # <center> Nirmal Jose
 
-
+<style>
+img.roundedsmall {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+</style>
 <center>
     <a href="mailto:nirmal.jose24@gmail.com">
-    <img src="./assets/mail_logo.png" alt="mail" width="30" class="aligncenter"></a>
+    <img src="./assets/mail_logo.png" alt="mail" width="30" class="roundedsmall"></a>
     <a href="https://www.linkedin.com/in/nirmaljose24/">
-    <img src="./assets/linkedin_logo.png" alt="linkedin" width="30" class="aligncenter"/></a>
+    <img src="./assets/linkedin_logo.png" alt="linkedin" width="30" class="roundedsmall"/></a>
     <a href="https://github.com/nirmaljose24">
-    <img src="./assets/github_logo.png" alt="github" width="30" class="aligncenter"/></a>
+    <img src="./assets/github_logo.png" alt="github" width="30" class="roundedsmall"/></a>
 </center>
 
 

@@ -6,11 +6,11 @@
 
 <center>
     <a href="mailto:nirmal.jose24@gmail.com">
-    <img src="./assets/mail_logo.png" alt="mail" width="30" class="roundedsmall"></a>
+    <img src="./assets/mail_logo.png" alt="mail" width="30" class="center"></a>
     <a href="https://www.linkedin.com/in/nirmaljose24/">
-    <img src="./assets/linkedin_logo.png" alt="linkedin" width="30" class="roundedsmall"/></a>
+    <img src="./assets/linkedin_logo.png" alt="linkedin" width="30" class="center"/></a>
     <a href="https://github.com/nirmaljose24">
-    <img src="./assets/github_logo.png" alt="github" width="30" class="roundedsmall"/></a>
+    <img src="./assets/github_logo.png" alt="github" width="30" class="center"/></a>
 </center>
 
 
@@ -96,7 +96,7 @@ Bangalore, India
 
 ### Professional Training and Certifications
 
-- [Self-Driving Cars, University of Toronto](https://www.coursera.org/specializations/self-driving-cars) - Coursera([Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/HW6XUDKGESU3))
+- [Self-Driving Cars, University of Toronto](https://www.coursera.org/specializations/self-driving-cars) - Coursera([Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/J7E6AZLL82F5))
     - [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) - Coursera ([Certificate](https://coursera.org/share/4b1dc3b5bb7e68b9ad59919859135ce3))
     - [State Estimation and Localization for Self-Driving Cars](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars) - Coursera ([Certificate](https://coursera.org/share/a7b2f5bffecdfd3ffd4037de208f111e))
     - [Visual Perception for Self-Driving Cars](https://www.coursera.org/learn/visual-perception-self-driving-cars) - Coursera ([Certificate](https://coursera.org/share/30e7109cf580baabd93e96a5b2e71d57))

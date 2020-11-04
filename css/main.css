@@ -1,0 +1,37 @@
+
+img.rounded {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+body{
+    background: #000;
+    color: #EEE;
+}
+
+img.roundedsmall {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+
+h2{
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+h3{
+  margin-bottom: 0px;
+  padding: 0px;
+}
+p{
+  margin-top: 0px;
+  font-size: 20px;
+  line-height: 1.2;
+}
+b{
+  font-size: 20px;
+}
+li {
+  font-size: 1.1em;
+}

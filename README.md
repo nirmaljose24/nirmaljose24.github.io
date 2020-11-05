@@ -1,18 +1,4 @@
-<center>
-<img src="./assets/profile_pic.jpg" class="rounded">
-</center>
-
 # <center> Nirmal Jose
-
-<center>
-    <a href="mailto:nirmal.jose24@gmail.com">
-    <img src="./assets/mail_logo.png" alt="mail" width="30" class="center"></a>
-    <a href="https://www.linkedin.com/in/nirmaljose24/">
-    <img src="./assets/linkedin_logo.png" alt="linkedin" width="30" class="center"/></a>
-    <a href="https://github.com/nirmaljose24">
-    <img src="./assets/github_logo.png" alt="github" width="30" class="center"/></a>
-</center>
-
 
 ### Professional and Research Experience
 
@@ -144,29 +130,3 @@ Bachelor of Technology in Automobile Engineering (2014-2018) <br/>
 Christ University
 
 - Merit Scholorship, Christ University, 2018
-
-
-
-<!---Document Styles--->
-<style>
-img.rounded {
-  height: 200px;
-  width: 200px;
-  border-radius: 50%;
-}
-</style>
-
-<style>
-body{
-    background: #000;
-    color: #EEE;
-}
-</style>
-
-<style>
-img.roundedsmall {
-  height: 30px;
-  width: 30px;
-  border-radius: 50%;
-}
-</style>

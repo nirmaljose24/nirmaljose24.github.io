@@ -23,8 +23,13 @@ h3{
   font-size: 18px;
 }
 p{
-  font-size: 16px;
+  font-size: 18px;
 }
 b{
-  font-size: 16px;
+  font-size: 18px;
 }
+ul{
+  margin-bottom: 1.5px;
+}
+a:hover {text-decoration: underline;color:lightgreen;}
+a {text-decoration: none; color:lightseagreen}
